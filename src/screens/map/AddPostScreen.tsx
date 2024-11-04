@@ -11,7 +11,7 @@ type AddPostScreenProps = StackScreenProps<
 >;
 
 function AddPostScreen({route}: AddPostScreenProps) {
-  const {location} = route.params;
+  const {} = route.params;
 
   return <PostForm location={location} />;
 }
