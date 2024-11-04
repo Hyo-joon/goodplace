@@ -1,0 +1,19 @@
+const colors = {
+  GREEN_200: 'E2FAE2',
+  GREEN_500: '#6ABF5C',
+  GREEN_700: '#3BC662',
+  WHITE: '#FFF',
+  BLACK: '#000',
+  RED_300: '#FFB4B4',
+  RED_500: '#FF5F5F',
+  GRAY_100: '#F8F8F8',
+  GRAY_200: '#E7E7E7',
+  GRAY_400: '#8E8E8E',
+  GRAY_600: '#575757',
+  BLUE_400: '#3E8DF4',
+  GREEN_400: '#CCE6BA',
+  YELLOW_400: '#FFE594',
+  PURPLE_400: '#C4C4E7',
+};
+
+export {colors};
